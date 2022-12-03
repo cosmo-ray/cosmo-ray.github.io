@@ -8,6 +8,15 @@
 
 I'm gonna try to have one Game improvement per day
 
+### Day 3
+![Winter Vacation to Chapter 3](next-chapter-option.png)
+
+You can now go from chapter 1 to chapter 3 (the last) without using cheat.
+
+*Chapter 2 and 3 are still mostly empry*
+
+commits [here](commit/b4dba7062016f62fc9fe6572e58add7dfeee2532) and [here](commit/b4dba7062016f62fc9fe6572e58add7dfeee2532)
+
 ### Day 2
 
 ![boat](new-interaction.png)
