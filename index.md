@@ -8,6 +8,13 @@
 
 I'm gonna try to have one Game improvement per day
 
+### Day 4
+
+[commit](https://github.com/cosmo-ray/Sukeban/commit/98b6252b7ae22298ff4751420bd551b7d1a773c2)
+
+Add movement mode, with slow mode, when presing ctrl, you are now moving slower.
+No image as I don't know which image would ilustarte the chage :p
+
 ### Day 3
 ![Winter Vacation to Chapter 3](next-chapter-option.png)
 
