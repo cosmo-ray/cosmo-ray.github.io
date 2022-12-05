@@ -8,6 +8,16 @@
 
 I'm gonna try to have one Game improvement per day
 
+### Day 5
+
+![before](Before.png)
+
+![after](now.png)
+
+[commit](https://github.com/cosmo-ray/Sukeban/commit/b0129a784edf414a2d20760cbdaa018cfdfcfc8f) (not very interesting though, it's only a png modification wth gimp and tiled stuff)
+
+Rounder Edge on Running field
+
 ### Day 4
 
 [commit](https://github.com/cosmo-ray/Sukeban/commit/98b6252b7ae22298ff4751420bd551b7d1a773c2)
