@@ -8,6 +8,19 @@
 
 I'm gonna try to have one Game improvement per day
 
+### Day 6
+
+Add a city center.
+
+![metro center station](center-metro.png)
+
+![can goto a sport shop](goto shop.png)
+
+![with only a few items](the-shop.png)
+
+[commit](https://github.com/cosmo-ray/Sukeban/commit/8446adab32c60b7ee3a16f33f631caa5a61849f6)
+(maybe there is a rogue changes that spoil next days :p)
+
 ### Day 5
 
 ![before](Before.png)
