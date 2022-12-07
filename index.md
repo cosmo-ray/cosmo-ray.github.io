@@ -8,6 +8,14 @@
 
 I'm gonna try to have one Game improvement per day
 
+### Day 7
+
+Add a new school
+
+![center school description](center-school.png)
+
+[commit](https://github.com/cosmo-ray/Sukeban/commit/1344b975438a34b402c116fa460b55a254d91d1f)
+
 ### Day 6
 
 Add a city center.
