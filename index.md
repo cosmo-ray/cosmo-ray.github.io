@@ -8,6 +8,13 @@
 
 I'm gonna try to have one Game improvement per day
 
+### Day 8
+
+More dialogues durring prologue that increase grumpyness and shyness.
+No Image 'caus I'm shy. (and lazy, I should add a lazy trait...)
+
+[commit](https://github.com/cosmo-ray/Sukeban/commit/27cf32ccc39b1ad02c394edb33e49f06bf47a4cd)
+
 ### Day 7
 
 Add a new school
