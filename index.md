@@ -8,6 +8,14 @@
 
 I'm gonna try to have one Game improvement per day
 
+### Day 9
+
+Ability to slack off whole day.
+- It increase lazyness
+- skipp day...
+
+Also beed lazy now add a new event at school
+
 ### Day 8
 
 More dialogues durring prologue that increase grumpyness and shyness.
