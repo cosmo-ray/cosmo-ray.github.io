@@ -8,6 +8,12 @@
 
 I'm gonna try to have one Game improvement per day
 
+### Day 10
+
+Add anime generic when you can watch animu, Nyaaaaa !!!! (but no anime are moe, it's /m/en stuff(and fe/m/ale stuff, the gender is not important)
+
+[commit](https://github.com/cosmo-ray/Sukeban/commit/3a0ed0fe18e304decc040f185d0f6edfb2769973)
+
 ### Day 9
 
 Ability to slack off whole day.
@@ -82,4 +88,4 @@ commits [here](commit/b4dba7062016f62fc9fe6572e58add7dfeee2532) and [here](commi
 
 [Add name to characters generation](https://github.com/cosmo-ray/Sukeban/commit/b4dba7062016f62fc9fe6572e58add7dfeee2532)
 
-
+[9 day after](https://github.com/cosmo-ray/Sukeban/commit/3030d8b02d0c7de8bfe65f6444269f3713afdc39)
