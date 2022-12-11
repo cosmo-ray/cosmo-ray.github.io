@@ -8,6 +8,16 @@
 
 I'm gonna try to have one Game improvement per day
 
+### Day 11
+
+A new quest 'bout sunglass,
+Also add some stuff in the park
+
+![don't touch that](sunglass-dialogue.png)
+
+[commit](https://github.com/cosmo-ray/Sukeban/commit/648de4f486b4ece748ecc2d1b97cfd339d113b6f)
+[commit](https://github.com/cosmo-ray/Sukeban/commit/66de74118b12dac443dd19c747ef947de9d9ba18)
+
 ### Day 10
 
 Add anime generic when you can watch animu, Nyaaaaa !!!! (but no anime are moe, it's /m/en stuff(and fe/m/ale stuff, the gender is not important)
@@ -20,7 +30,10 @@ Ability to slack off whole day.
 - It increase lazyness
 - skipp day...
 
-Also beed lazy now add a new event at school
+Also been lazy now add a new event at school
+
+[commit](https://github.com/cosmo-ray/Sukeban/commit/87057a2d6e2ac659c06c3514ec6a613c8a25a1b2)
+[commit](https://github.com/cosmo-ray/Sukeban/commit/c5c1cb552c42f2c07a9a97348619619f61e70598)
 
 ### Day 8
 
