@@ -8,6 +8,14 @@
 
 I'm gonna try to have one Game improvement per day
 
+### Day 12
+
+Enemies now fall on the ground before dieying.
+
+[commit](https://github.com/cosmo-ray/yirl/commit/0547aeed9acef22a0be89bcc7f7be3e14d10df32) (yes the commit is in the engine and not the game for a change :)
+Also jrpg-fight yirl module, is by far the wort modules of all, I hate that code, every time I check it I wonder if I should rewrite it, just refacto it, and how....
+So yeah don't look it too much :)
+
 ### Day 11
 
 A new quest 'bout sunglass,
