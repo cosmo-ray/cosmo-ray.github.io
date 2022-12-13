@@ -8,6 +8,14 @@
 
 I'm gonna try to have one Game improvement per day
 
+### Day 13
+
+Add wearable head items
+
+![as my sunglass](sunglass.png)
+
+[commit](https://github.com/cosmo-ray/yirl/commit/7c6b874aacf6a79092099790d68c8b5f0bfa28d3)
+
 ### Day 12
 
 Enemies now fall on the ground before dieying.
