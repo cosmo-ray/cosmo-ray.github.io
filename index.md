@@ -8,6 +8,12 @@
 
 I'm gonna try to have one Game improvement per day
 
+### Day 14
+
+Skate Movement
+
+[commit](https://github.com/cosmo-ray/yirl/commit/66f2df31e7adbb556606c7292226f6f26a6b6bf3)
+
 ### Day 13
 
 Add wearable head items
