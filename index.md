@@ -8,6 +8,13 @@
 
 I'm gonna try to have one Game improvement per day
 
+### Day 15
+
+Add a room at school for sport club.
+
+[commit](https://github.com/cosmo-ray/yirl/commit/b141921b85338359e3a44878197e6dace3c4ab84)
+[commit](https://github.com/cosmo-ray/yirl/commit/f642ecb318349be1ca6046e0776c86b3ede5d789)
+
 ### Day 14
 
 Skate Movement
@@ -109,7 +116,7 @@ You can now go from chapter 1 to chapter 3 (the last) without using cheat.
 
 *Chapter 2 and 3 are still mostly empry*
 
-commits [here](commit/b4dba7062016f62fc9fe6572e58add7dfeee2532) and [here](commit/b4dba7062016f62fc9fe6572e58add7dfeee2532)
+commits [here](https://github.com/cosmo-ray/Sukeban/commit/eedac09901a5404f904c0bc0dc0503e0421a5f59) and [here](https://github.com/cosmo-ray/Sukeban/commit/88f460abd8eb9b7c07f4f008f4d51ce500681c97)
 
 ### Day 2
 
