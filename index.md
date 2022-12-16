@@ -8,6 +8,13 @@
 
 I'm gonna try to have one Game improvement per day
 
+### Day 16
+
+Add news on TV
+
+[commit](https://github.com/cosmo-ray/yirl/commit/76f69d153a3f556c2368a0a9c907444d2c8f805d)
+[commit](https://github.com/cosmo-ray/yirl/commit/c9c1231e3fbbcd4b84b8c9fba6215a09c966cd23)
+
 ### Day 15
 
 Add a room at school for sport club.
