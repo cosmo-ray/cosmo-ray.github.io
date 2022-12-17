@@ -8,12 +8,20 @@
 
 I'm gonna try to have one Game improvement per day
 
+### Day 17
+
+NPCs ai can now to to they club after school
+
+![and watch animu](club-anime-watching.png)
+
+[commit](https://github.com/cosmo-ray/yirl/commit/1543ab49ac8abc6b6bba72554ba978daf216ed6c)
+
 ### Day 16
 
 Add news on TV
 
-[commit](https://github.com/cosmo-ray/yirl/commit/76f69d153a3f556c2368a0a9c907444d2c8f805d)
-[commit](https://github.com/cosmo-ray/yirl/commit/c9c1231e3fbbcd4b84b8c9fba6215a09c966cd23)
+[commit](https://github.com/cosmo-ray/yirl/commit/4a1cefd0f8355b6a2b7c25a9f77f1e7f99d37d1f)
+[commit](https://github.com/cosmo-ray/yirl/commit/eff6828ffa1bf926c6fd360cc0a59b9384315105)
 
 ### Day 15
 
