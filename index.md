@@ -8,6 +8,12 @@
 
 I'm gonna try to have one Game improvement per day
 
+### Day 18
+
+Add some sunday shoping stuff
+
+[commit](https://github.com/cosmo-ray/yirl/commit/c8e311dcd37a29331931e92d2bd786b57c1e4d6c)
+
 ### Day 17
 
 NPCs ai can now to to they club after school
