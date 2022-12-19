@@ -8,6 +8,14 @@
 
 I'm gonna try to have one Game improvement per day
 
+### Day 19
+
+Add whellball stadium in noitoise
+
+![the stadium(yet, not very good)](whellball-stadium.png)
+
+[commit](https://github.com/cosmo-ray/yirl/commit/7742cc42aeef111ea490baba90abb3308d5d4c07)
+
 ### Day 18
 
 Add some sunday shoping stuff
