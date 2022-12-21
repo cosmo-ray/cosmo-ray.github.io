@@ -43,7 +43,7 @@ Add some sunday shoping stuff
 
 ### Day 17
 
-NPCs ai can now to to they club after school
+NPCs ai can now go to they club after school
 
 ![and watch animu](club-anime-watching.png)
 
