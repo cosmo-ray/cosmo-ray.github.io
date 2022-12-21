@@ -8,6 +8,17 @@
 
 I'm gonna try to have one Game improvement per day
 
+### Day 21
+
+Add Mysticall Neet Go-under (the name's a reference to a Game) club, it's an "hiden" club that perform strage ritual.
+They HQ is the hiden house, which is ... hiden.
+
+![the hiden entrance](mysticall entrance.png)
+
+![and I juste realise what I though was cushion, are in fact flower pot](the club.png)
+
+[commit](https://github.com/cosmo-ray/yirl/commit/2667cf0024c496f5022e65c39a615dd85072606d)
+
 ### Day 20
 
 Add Random quests from random guys.
