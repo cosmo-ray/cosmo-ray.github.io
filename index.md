@@ -8,6 +8,12 @@
 
 I'm gonna try to have one Game improvement per day
 
+### Day 22
+
+You can now join animu club at school and watch anime there
+
+[commit](https://github.com/cosmo-ray/yirl/commit/f26baacb5e720e9c3bafaa0e88c70deaf92aa169)
+
 ### Day 21
 
 Add Mysticall Neet Go-under (the name's a reference to a Game) club, it's an "hiden" club that perform strage ritual.
