@@ -8,6 +8,12 @@
 
 I'm gonna try to have one Game improvement per day
 
+### Day 23
+
+Add an AI to mom, and make her disepear durring night after chapter 1
+
+[commit](https://github.com/cosmo-ray/yirl/commit/d49692f4688603559fd6b11aa5869cb915b20c5d)
+
 ### Day 22
 
 You can now join animu club at school and watch anime there
