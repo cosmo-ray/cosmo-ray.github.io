@@ -1,0 +1,184 @@
+<head>
+<link rel="stylesheet" href="styling.css">
+</head>
+<h1 id="yirl">YIRL</h1>
+<h2 id="engines">engines</h2>
+<ul>
+<li>PHP 5.3 support</li>
+<li>Basic support for webassemby (but lack half the engine
+features)</li>
+<li>Improve Game API:
+<ul>
+<li>add <code>trySetInt</code></li>
+<li>add <code>ygInitWidgetModule</code></li>
+<li>add <code>ywidAddSubTypeNF</code></li>
+<li>add <code>ygAssert</code> (an assert that trace though scripting
+engines)</li>
+<li>add <code>ygDgbAbort</code></li>
+<li>add <code>ygLoadScript2</code> (call script using an int, which is
+easier to use inside scripts)</li>
+<li>add <code>ygScriptCall</code></li>
+</ul></li>
+<li>Improve script API:
+<ul>
+<li>add <code>ysTraceCurrentScript</code></li>
+</ul></li>
+<li>Improve entity API:
+<ul>
+<li>add <code>yecpy</code></li>
+<li>add <code>yeGetRandomElem</code> (get a random elem from an
+array)</li>
+</ul></li>
+<li>Improve Size/Pos api:
+<ul>
+<li>add <code>ywPosAddXYAbsMax</code> and
+<code>ywPosAddXYAbsMaxXY</code></li>
+</ul></li>
+<li>Improve Utils API:
+<ul>
+<li>add <code>yuiMin</code></li>
+</ul></li>
+<li>improve condition API
+<ul>
+<li>‘=’ now compart any type of entities</li>
+<li>add <code>!exist</code></li>
+</ul></li>
+<li>improve widget API:
+<ul>
+<li>add <code>margin</code> element</li>
+</ul></li>
+<li>improve canvas widget API:
+<ul>
+<li>add <code>ywCanvasCacheBicolorImg</code></li>
+</ul></li>
+<li>improve text-screen widget API:
+<ul>
+<li>Support ascii color in text (using modifier like
+<code>\u001b[31m</code> for red)</li>
+</ul></li>
+<li>improve Menu widget API:
+<ul>
+<li>add <code>ywMenuNbEntrie</code></li>
+<li>add <code>ywMenuGetCurSliderSlide</code></li>
+</ul></li>
+<li>improve Map widget API:
+<ul>
+<li>add ywMapReset</li>
+<li>add <code>map-pixels</code> element (enable to draw map element
+froma pixiel description in code)</li>
+<li>add <code>cam-getter</code> which allow to automatically store some
+elements by id under the cam</li>
+<li>add <code>ywMapIdAt</code></li>
+<li>add <code>cam-threshold</code> element</li>
+<li>add <code>cam-pointer</code> so cam automatically follow a pos</li>
+<li>add <code>ywMapCamPointedCase</code></li>
+<li>add <code>ywMapCamPointedContainId</code></li>
+<li>add <code>YMAP_DRAW_REPLACE_FIRST</code> flag for
+<code>ywMapDrawSegment</code></li>
+</ul></li>
+<li>build system:
+<ul>
+<li>can now compile YIRL without some stuff (tcc, s7, sdl-sound)</li>
+</ul></li>
+<li>when serealize to json, we now use pretty print</li>
+<li>enable creating of modules that are alias from another module</li>
+<li>remove glib usage in the engine</li>
+<li>add yirl-completion.bash</li>
+</ul>
+<h2 id="main-modules">main modules</h2>
+<ul>
+<li>Add a loading bar module</li>
+<li>asteroid-shooter:
+<ul>
+<li>create a new mode, so it can now handle different kind of games</li>
+<li>rename <code>asteroid-shooter</code> to <code>shooter</code> and
+create <code>asteroid-shooter</code> as an alias of
+<code>shooter</code></li>
+</ul></li>
+<li>lpcs: add quad-skate feet wear</li>
+<li>jrpg-fight:
+<ul>
+<li>add some japanese text (アタク) when you attack</li>
+<li>cleaner menu (with some marging between menues)</li>
+<li>add semi transparent box under text so it’s more readable</li>
+<li>change the way combots bar work, which mow use characters stats and
+weapons stats</li>
+<li>dead animation</li>
+<li>better timing for animation</li>
+<li>rotate a little characters when they are hit</li>
+<li>the module is still crap</li>
+</ul></li>
+</ul>
+<h2 id="other-stuff">other stuff</h2>
+<ul>
+<li><a
+href="https://github.com/cosmo-ray/nyanarchiste">nyanarchiste</a></li>
+<li><a
+href="https://github.com/cosmo-ray/z-skull-breaker">z-skull-breaker</a></li>
+<li><a
+href="https://github.com/cosmo-ray/y_simple_3d_labyrinthe">y_simple_3d_labyrinthe</a>:
+add exits (which call callback when activated), and print them as
+ladder</li>
+</ul>
+<h1 id="sukeban">Sukeban</h1>
+<ul>
+<li>The game now have a chapter 2, and 3, but both are mostly empty</li>
+<li>you can finish the game/story… the game have an end :)</li>
+<li>mom have an AI, and is less often at home durring 2 and 3rd
+chapter.</li>
+<li>improve tactical-fight:
+<ul>
+<li>enemies check AP before they can attack</li>
+<li>attack are now base on charatcer stats, instead of hard-coded
+number</li>
+</ul></li>
+<li>add a questline to madao, where you look for his sunglass.</li>
+<li>add quad-skate</li>
+<li>there’s a grumpy and shy trait, that can influence some
+dialogues</li>
+<li>add town center, but it’s vn-screen, now a real place to walk
+around</li>
+<li>add 2 places, where you can meets other gangs. (the local place, and
+the fort of the braves)</li>
+<li>add 2 other schools (nyuniversity and central school).</li>
+<li>if you have the stats, you can ask, about nyuniversity history,
+which start a Rogue-like, and can give XP, if completed</li>
+<li>some non-random character, can now fallback on random students
+dialogues when at school</li>
+<li>you can now do the first mission of the students protection
+club</li>
+<li>there’s now a dressup menu, where you can also change your
+hair-style</li>
+<li>there’s a lot more new on TV</li>
+<li>news on TV, is now day-random, and so change every day, instead of
+every time you start the dialogue</li>
+<li>there’s now a lot more of anime on TV</li>
+<li>fight-pit now have a new set of enemies you can fight</li>
+<li>you can now give money to homeles, which reward by increasing some
+stats</li>
+<li>there’s now more name for students generations</li>
+<li>add whellball statdiums</li>
+<li>add an underground that link to an hiden house. that serve as base
+for the mysticall club go-under.</li>
+<li>add some syndicalist (in the WUt building), that can talk about
+syndicalist stuff</li>
+<li>you can dread of killing zombies, after some quest line. (it give a
+few XP)</li>
+<li>you can work as bartender</li>
+<li>stuff happen when in school, you can talk to other students durring
+lessons, or just slack off.</li>
+<li>remove the old broken combots systems, and use standard stats
+instead</li>
+<li>if jackobe is you ally, you can ask him to leave, so you can play
+Asc II</li>
+<li>vn-scenes dock now have a text-background</li>
+<li>add LGPL in the code</li>
+</ul>
+<h1 id="other">Other</h1>
+<ul>
+<li><a href="https://github.com/cosmo-ray/cUwU">cUwU</a></li>
+<li><a
+href="https://github.com/cosmo-ray/steam_deck_howto_game">steam_deck_howto_game</a></li>
+<li><a href="https://github.com/cosmo-ray/json-search">json-search</a> :
+add <code>-K</code> options to print only keys</li>
+</ul>
