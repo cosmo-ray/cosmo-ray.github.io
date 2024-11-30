@@ -115,7 +115,7 @@ Also add some stuff in the park
 
 ## Day 10
 
-Add anime generic when you can watch animu, Nyaaaaa !!!! (but no anime are moe, it's /m/en stuff(and fe/m/ale stuff, the gender is not important)
+Add anime generic when you watch animu, Nyaaaaa !!!! (but no anime are moe, it's /m/en stuff(and fe/m/ale stuff, the gender is not important)
 
 [commit](https://github.com/cosmo-ray/Sukeban/commit/3a0ed0fe18e304decc040f185d0f6edfb2769973)
 
