@@ -4,6 +4,8 @@
 
 # Sad UwU, while listening to Dallos OST
 
+## [2024 Advent Calendar](./ac-24.html)
+
 ## [2023 Sukeban Advent Calendar](./ac-23.html)
 
 ## [2022 retrospective](./2022.html)
